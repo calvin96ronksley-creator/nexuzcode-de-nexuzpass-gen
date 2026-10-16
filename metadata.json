@@ -1,0 +1,6 @@
+{
+  "name": "CYBERCRYPT – Moderner Passwort-Generator & Hash-Labor",
+  "description": "Futuristischer Passwort-Generator mit Neon-Design, 1-Klick-Kopierfunktion, flexiblen Zeichensätzen, Entropie-Kalkulator und ASCII-Hashing (MD5, SHA-1, SHA-256, SHA-512).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
